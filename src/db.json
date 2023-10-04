@@ -1,0 +1,812 @@
+[
+	{
+		"id": 1,
+		"name": "Car 1",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 2,
+		"name": "Car 2",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 3,
+		"name": "Car 3",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 4,
+		"name": "Car 4",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 5,
+		"name": "Car 5",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 6,
+		"name": "Car 6",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 7,
+		"name": "Car 7",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 8,
+		"name": "Car 8",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 9,
+		"name": "Car 9",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 10,
+		"name": "Car 10",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 11,
+		"name": "Car 11",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 12,
+		"name": "Car 12",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 13,
+		"name": "Car 13",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 14,
+		"name": "Car 14",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 15,
+		"name": "Car 15",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 16,
+		"name": "Car 16",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 17,
+		"name": "Car 17",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 18,
+		"name": "Car 18",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 19,
+		"name": "Car 19",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 20,
+		"name": "Car 20",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 21,
+		"name": "Car 21",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 22,
+		"name": "Car 22",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 23,
+		"name": "Car 23",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 24,
+		"name": "Car 24",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 25,
+		"name": "Car 25",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 26,
+		"name": "Car 26",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 27,
+		"name": "Car 27",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 28,
+		"name": "Car 28",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 29,
+		"name": "Car 29",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 30,
+		"name": "Car 30",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 31,
+		"name": "Car 31",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 32,
+		"name": "Car 32",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 33,
+		"name": "Car 33",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 34,
+		"name": "Car 34",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 35,
+		"name": "Car 35",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 36,
+		"name": "Car 36",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 37,
+		"name": "Car 37",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 38,
+		"name": "Car 38",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 39,
+		"name": "Car 39",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 40,
+		"name": "Car 40",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 41,
+		"name": "Car 41",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 42,
+		"name": "Car 42",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 43,
+		"name": "Car 43",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 44,
+		"name": "Car 44",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 45,
+		"name": "Car 45",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 46,
+		"name": "Car 46",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 47,
+		"name": "Car 47",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 48,
+		"name": "Car 48",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 49,
+		"name": "Car 49",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 50,
+		"name": "Car 50",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 51,
+		"name": "Car 51",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 52,
+		"name": "Car 52",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 53,
+		"name": "Car 53",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	},
+	{
+		"id": 54,
+		"name": "Car 54",
+		"img": [
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+			"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+		],
+		"launch_year": 2021,
+		"seating_capacity": 4,
+		"fuel_type": "Hybrid",
+		"milage_km_per_liter": "6.1",
+		"gear_transition_type": "Automatic",
+		"rent_price_per_month_in_usd": 440
+	}
+]

@@ -1,0 +1,46 @@
+.topNav {
+	width: 95%;
+	margin: auto;
+	padding: 20px;
+	border-radius: 20px;
+	background: var(--clr-bg);
+	box-shadow: var(--box-shadow);
+}
+
+.navControls {
+	display: flex;
+}
+
+.navControls > .searchWrapper {
+	display: flex;
+	align-items: center;
+	background-color: white;
+	width: 25%;
+	padding: 2px 7px;
+	border-radius: 50px;
+	border: 2px solid white;
+	overflow: hidden;
+	font-size: 1.3rem;
+	box-shadow: var(--box-shadow);
+}
+
+.searchWrapper > input {
+	width: 90%;
+	padding: 5px 10px;
+	border: 0;
+	outline: none;
+}
+
+.dropDowns {
+	display: flex;
+	gap: 15px;
+	margin-left: 30px;
+	margin-block: auto;
+}
+
+.dropDowns > div {
+	display: flex;
+	align-items: center;
+	gap: 2px;
+	cursor: pointer;
+}

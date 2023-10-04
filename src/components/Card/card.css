@@ -1,0 +1,115 @@
+.card {
+	box-shadow: var(--box-shadow);
+	border-radius: 15px;
+	padding: 15px;
+    border: 2px solid white;
+}
+
+.card .card-top-img {
+	width: 420px;
+}
+
+.card .card-top-img img {
+	width: 100%;
+	border-radius: 15px;
+}
+
+.card .card-mid-info {
+	padding: 0 10px;
+}
+
+.card .card-mid-info .card-car-name {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 15px 0;
+}
+
+.card .card-mid-info .card-car-name h3 {
+	font-weight: 400;
+	font-size: 1.5rem;
+}
+
+.card .card-mid-info .car-year-launch {
+	border: 3px dotted var(--clr-primary);
+	padding: 3px 10px;
+	border-radius: 10px;
+	font-weight: 600;
+}
+
+.card .card-mid-info .card-stats {
+	display: grid;
+	grid-template-rows: repeat(2, 1fr);
+	grid-template-columns: repeat(2, 1fr);
+}
+
+.card .card-mid-info .card-stats .stat {
+	display: flex;
+	gap: 5px;
+	font-size: 1.1rem;
+}
+
+.card .card-mid-info .card-stats .stat .icon {
+	color: var(--clr-primary);
+	margin-right: 2px;
+}
+
+.card .card-divider {
+	width: 80%;
+	height: 1px;
+	background-color: rgba(143, 143, 143, 0.449);
+	margin: 20px auto;
+}
+
+.card .card-lower-cta {
+	display: flex;
+	justify-content: space-between;
+	padding: 0 10px;
+}
+
+.card .card-lower-cta .price {
+	font-size: 1.5rem;
+}
+
+.card .card-lower-cta .price span {
+	font-size: 1rem;
+}
+
+.card .card-lower-cta .cta {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.card .card-lower-cta .addToFav {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 1.2rem;
+	background-color: var(--clr-secondary);
+	color: var(--clr-primary);
+	cursor: pointer;
+	transition: color 500ms, background-color 250ms;
+}
+
+.card .card-lower-cta .addToFav:hover {
+	background-color: var(--clr-secondary-hover);
+	color: var(--clr-primary-hover);
+}
+
+.card .card-lower-cta .cta-btn {
+	font-size: 1.2rem;
+	padding: 5px 10px;
+	border: 0;
+	outline: 0;
+	background-color: var(--clr-primary);
+    transition: background-color 250ms;
+	color: white;
+	border-radius: 10px;
+}
+
+.card .card-lower-cta .cta-btn:hover{
+    background-color: var(--clr-primary-hover);
+}

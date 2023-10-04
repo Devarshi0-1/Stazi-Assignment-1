@@ -1,0 +1,38 @@
+.footer {
+	display: flex;
+	justify-content: space-between;
+	width: 95%;
+	margin: auto;
+	padding: 20px;
+	border-radius: 20px;
+	background: var(--clr-bg);
+	box-shadow: var(--box-shadow);
+}
+
+.footer .footer-left .footer-currentPage {
+	display: flex;
+	align-items: center;
+}
+
+.footer .footer-right {
+	display: flex;
+	gap: 10px;
+}
+
+.footer .footer-right .paginationBtn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 30px;
+	aspect-ratio: 1;
+	background-color: white;
+	border-radius: 10px;
+	border: none;
+	outline: none;
+	box-shadow: var(--box-shadow);
+}
+
+.footer .footer-right .paginationBtn.activePage {
+	background-color: var(--clr-secondary);
+	color: var(--clr-primary);
+}
